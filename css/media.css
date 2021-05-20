@@ -1,0 +1,25 @@
+html
+{
+    font-size: 70%;
+}
+
+.main__exchange--tables
+{
+    width: 70%;
+    overflow-x: hidden;
+}
+
+.main__benefits--container
+{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 900px;
+}
+
+.container__plans
+{
+    width: 70%;
+    overflow-x: hidden;
+    justify-content: center;
+}
