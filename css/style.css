@@ -171,7 +171,6 @@ main
     margin-bottom: 50px;
     display: flex;
     overflow-x: scroll;
-    overscroll-behavior: contain;
     scroll-snap-type: x proximity;
 }
 
@@ -433,7 +432,6 @@ main
     display: flex;
     align-items: center;
     overflow-x: scroll;
-    overscroll-behavior: contain;
     scroll-snap-type: x proximity;
 }
 
